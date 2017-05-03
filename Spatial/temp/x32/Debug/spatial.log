@@ -1,0 +1,113 @@
+﻿  main.cpp
+c:\users\jepettit\desktop\spatial\spatial\main.cpp(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jepettit\desktop\spatial\spatial\main.cpp(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jepettit\desktop\spatial\spatial\main.cpp(38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jepettit\desktop\spatial\spatial\main.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\jepettit\desktop\spatial\spatial\main.cpp(55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jepettit\desktop\spatial\spatial\main.cpp(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jepettit\desktop\spatial\spatial\main.cpp(24): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jepettit\desktop\spatial\spatial\main.cpp(24): warning C4100: 'argc': unreferenced formal parameter
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(13924): warning C4456: declaration of 'ns' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(13918): note: see declaration of 'ns'
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(13813): note: while compiling class template member function 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *const ,char *const )'
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(13770): note: see reference to function template instantiation 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *const ,char *const )' being compiled
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(16066): note: see reference to class template instantiation 'cimg_library::CImg<float>::_cimg_math_parser' being compiled
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(16064): note: while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(50036): note: see reference to function template instantiation 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const' being compiled
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(50035): note: see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(14145): warning C4458: declaration of 'opcode' hides class member
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(13683): note: see declaration of 'cimg_library::CImg<float>::_cimg_math_parser::opcode'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(14160): warning C4458: declaration of 'opcode' hides class member
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(13683): note: see declaration of 'cimg_library::CImg<float>::_cimg_math_parser::opcode'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(14188): warning C4456: declaration of 'sep' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(13829): note: see declaration of 'sep'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(14188): warning C4456: declaration of 'end' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(13829): note: see declaration of 'end'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(14188): warning C4456: declaration of 'val' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(13829): note: see declaration of 'val'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(14197): warning C4456: declaration of 'nb' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(13830): note: see declaration of 'nb'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(20816): warning C4456: declaration of 'poff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(20802): note: see declaration of 'poff'
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(20534): note: while compiling class template member function 'cimg_library::CImg<unsigned int> cimg_library::CImg<unsigned int>::get_resize(const int,const int,const int,const int,const int,const unsigned int,const float,const float,const float,const float) const'
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(20525): note: see reference to function template instantiation 'cimg_library::CImg<unsigned int> cimg_library::CImg<unsigned int>::get_resize(const int,const int,const int,const int,const int,const unsigned int,const float,const float,const float,const float) const' being compiled
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(13686): note: see reference to class template instantiation 'cimg_library::CImg<unsigned int>' being compiled
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(20817): warning C4456: declaration of 'pfoff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(20803): note: see declaration of 'pfoff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(20851): warning C4456: declaration of 'poff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(20837): note: see declaration of 'poff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(20852): warning C4456: declaration of 'pfoff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(20838): note: see declaration of 'pfoff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(20889): warning C4456: declaration of 'poff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(20875): note: see declaration of 'poff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(20890): warning C4456: declaration of 'pfoff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(20876): note: see declaration of 'pfoff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(20928): warning C4456: declaration of 'poff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(20914): note: see declaration of 'poff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(20929): warning C4456: declaration of 'pfoff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(20915): note: see declaration of 'pfoff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21041): warning C4456: declaration of 'poff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21027): note: see declaration of 'poff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21042): warning C4456: declaration of 'pfoff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21028): note: see declaration of 'pfoff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21082): warning C4456: declaration of 'poff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21068): note: see declaration of 'poff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21083): warning C4456: declaration of 'pfoff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21069): note: see declaration of 'pfoff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21126): warning C4456: declaration of 'poff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21112): note: see declaration of 'poff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21127): warning C4456: declaration of 'pfoff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21113): note: see declaration of 'pfoff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21171): warning C4456: declaration of 'poff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21157): note: see declaration of 'poff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21172): warning C4456: declaration of 'pfoff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21158): note: see declaration of 'pfoff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21226): warning C4456: declaration of 'poff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21211): note: see declaration of 'poff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21227): warning C4456: declaration of 'pfoff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21212): note: see declaration of 'pfoff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21274): warning C4456: declaration of 'poff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21259): note: see declaration of 'poff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21275): warning C4456: declaration of 'pfoff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21260): note: see declaration of 'pfoff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21325): warning C4456: declaration of 'poff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21310): note: see declaration of 'poff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21326): warning C4456: declaration of 'pfoff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21311): note: see declaration of 'pfoff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21377): warning C4456: declaration of 'poff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21362): note: see declaration of 'poff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(21378): warning C4456: declaration of 'pfoff' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(21363): note: see declaration of 'pfoff'
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(34678): warning C4456: declaration of 'c' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(34668): note: see declaration of 'c'
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(34602): note: see reference to function template instantiation 'cimg_library::CImg<unsigned char> &cimg_library::CImg<unsigned char>::_draw_text<tc1,tc2,T>(const int,const int,const char *const ,const tc1 *const ,const tc2 *const ,const float,const cimg_library::CImgList<T> &,const bool)' being compiled
+          with
+          [
+              tc1=unsigned char,
+              tc2=unsigned char,
+              T=unsigned char
+          ]
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(34602): note: see reference to function template instantiation 'cimg_library::CImg<unsigned char> &cimg_library::CImg<unsigned char>::_draw_text<tc1,tc2,T>(const int,const int,const char *const ,const tc1 *const ,const tc2 *const ,const float,const cimg_library::CImgList<T> &,const bool)' being compiled
+          with
+          [
+              tc1=unsigned char,
+              tc2=unsigned char,
+              T=unsigned char
+          ]
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(49879): note: see reference to function template instantiation 'cimg_library::CImg<unsigned char> &cimg_library::CImg<unsigned char>::draw_text<unsigned char,unsigned char>(const int,const int,const char *const ,const tc1 *const ,const tc2 *const ,const float,const unsigned int,...)' being compiled
+          with
+          [
+              tc1=unsigned char,
+              tc2=unsigned char
+          ]
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(49879): note: see reference to function template instantiation 'cimg_library::CImg<unsigned char> &cimg_library::CImg<unsigned char>::draw_text<unsigned char,unsigned char>(const int,const int,const char *const ,const tc1 *const ,const tc2 *const ,const float,const unsigned int,...)' being compiled
+          with
+          [
+              tc1=unsigned char,
+              tc2=unsigned char
+          ]
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(50015): note: see reference to function template instantiation 'int cimg_library::cimg::dialog<unsigned char>(const char *const ,const char *const ,const char *const ,const char *const ,const char *const ,const char *const ,const char *const ,const char *const ,const cimg_library::CImg<unsigned char> &,const bool)' being compiled
+c:\users\jepettit\desktop\spatial\spatial\cimg.h(34682): warning C4456: declaration of 'c' hides previous local declaration
+  c:\users\jepettit\desktop\spatial\spatial\cimg.h(34668): note: see declaration of 'c'
+  spatial.vcxproj -> C:\Users\jepettit\Desktop\Spatial\bin\spatial_d.exe
+  spatial.vcxproj -> C:\Users\jepettit\Desktop\Spatial\bin\spatial_d.pdb (Full PDB)
